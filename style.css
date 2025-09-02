@@ -78,6 +78,14 @@ img {
  transform: scale(0.95);
 }
 
+.detail-box{
+  display: flex;
+  gap: 20px;
+}
+
+.detail-box p{
+  font-size: 1.3rem;
+}
 
 /* TOP CONTAINER */
 .top-container {
